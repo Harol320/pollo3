@@ -5,12 +5,12 @@ import { getFirestore, collection, addDoc } from "firebase/firestore";
 
 // Configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBKJ2lTogRyuKLM9HD5YwGqTaXSu_7AzTs",
-  authDomain: "base-34631.firebaseapp.com",
-  projectId: "base-34631",
-  storageBucket: "base-34631.firebasestorage.app",
-  messagingSenderId: "51947527201",
-  appId: "1:51947527201:web:6502d9498a58660f129760",
+    apiKey: "AIzaSyBKJ2lTogRyuKLM9HD5YwGqTaXSu_7AzTs",
+  authDomain: "base-34631.firebaseapp.com",
+  projectId: "base-34631",
+  storageBucket: "base-34631.firebasestorage.app",
+  messagingSenderId: "51947527201",
+  appId: "1:51947527201:web:6502d9498a58660f129760"
 };
 
 // Inicializar Firebase
